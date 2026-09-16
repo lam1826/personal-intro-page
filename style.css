@@ -22,3 +22,8 @@ body {
     font-size: 18px;
     line-height: 1.6;
 }
+
+.intro {
+    width: 5000px;
+    font-size: 100px;
+}
